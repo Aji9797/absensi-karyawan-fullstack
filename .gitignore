@@ -1,5 +1,15 @@
+# Node.js
 node_modules/
-.env
-__pycache__/
 dist/
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Mac
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
